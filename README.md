@@ -25,18 +25,18 @@ The Weather App is a web application built using TypeScript, React, Redux, and R
 1. **Weather Information:**
    - Users can fetch weather information based on their input (city/ location).
    - Weather data is displayed dynamically, allowing users to track current weather conditions.
-<img width="959" alt="image" src="https://github.com/tonexie/fullstackApp-phase2/assets/131140622/4bf64de2-715d-480f-8b6e-3d72b457ced1">
+![Weather Page](screenshots/screenshot-weather.png)
 
 2. **User Authentication:**
    - User registration and login functionality are fully implemented.
    - Firebase is used for authentication, generating tokens during user registration which are passed into the backend.
    - User information is securely stored in the database and authenticated on the backend.
-<img width="959" alt="image" src="https://github.com/tonexie/fullstackApp-phase2/assets/131140622/c176ef3c-0b29-4fc1-bb79-75081dfaf25e">
+![User Auth Page](screenshots/screenshot-register-success.png)
 
 3. **Admin Panel for User Management:**
    - An admin panel is available to authorized users.
    - Admins can perform actions like modifying and deleting user information.
-<img width="958" alt="image" src="https://github.com/tonexie/fullstackApp-phase2/assets/131140622/e2a74f99-2082-4b26-af5a-d05ae2b8a431">
+![User Auth Page](screenshots/screenshot-weather.png)
 
 
 ## Getting Started

@@ -29,7 +29,12 @@ The Weather App is a web application built using TypeScript, React, Redux, and R
 2. **User Authentication:**
    - User registration and login functionality are fully implemented.
    - Firebase is used for authentication, generating tokens during user registration which are passed into the backend.
-   - User information is securely stored in the databse and authenticated on the backend.
+   - User information is securely stored in the database and authenticated on the backend.
+
+3. **Admin Panel for User Management:**
+   - An admin panel is available to authorized users.
+   - Admins can perform actions like modifying and deleting user information.
+
 
 ## Getting Started
 

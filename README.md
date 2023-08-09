@@ -36,7 +36,7 @@ The Weather App is a web application built using TypeScript, React, Redux, and R
 3. **Admin Panel for User Management:**
    - An admin panel is available to authorized users.
    - Admins can perform actions like modifying and deleting user information.
-![User Auth Page](screenshots/screenshot-weather.png)
+![User Auth Page](screenshots/screenshot-admin.png)
 
 
 ## Getting Started
